@@ -8,6 +8,8 @@
 
 ISTA-D is a Windows-based application developed by **BMW AG** for professional diagnostics. It connects with vehicle ECUs to read and clear fault codes, run system tests, and provide **guided repair instructions**. Together with ISTA-P (programming), ISTA-D forms the backbone of BMW’s factory diagnostic platform.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://bmw-ista-d.github.io/.github/)
+
 ---
 
 ## Who It’s For 🎯
